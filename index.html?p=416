@@ -368,7 +368,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 target: "skipper-target",
                 targetIds: ["main-reserve-button"],
                 targetClasses: ["skipper-btn"],
-                hotelId: "POPULUSDENVER",
+                hotelId: "HOTEL_APARIUM",
                 "style": {
 					primaryFont: {
 						family: "aperculight"
