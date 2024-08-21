@@ -395,7 +395,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 target: "skipper-target",
                 targetIds: ["main-reserve-button"],
                 targetClasses: ["skipper-btn"],
-                hotelId: "HOTEL_APARIUM",
+                hotelId: "APARIUM_UAT",
                 brandId: "APARIUM_UAT",
                 "style": {
 					primaryFont: {
